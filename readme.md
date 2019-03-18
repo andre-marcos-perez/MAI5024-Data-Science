@@ -7,7 +7,7 @@ Repository for MAI5024 Data Science discipline @ MSc. Data Science |  ICMC | USP
   * Bruno Barbosa, brunobarbosa@usp.br;
   * Daniel Caires, dielcaires@usp.br;
   * Edgar Hirama, edgar.hirama@usp.br;
-  * Guilherme Rocha, .
+  * Guilherme Rocha, guilherme.rocha.goncalves@usp.br.
  
 ## License
 
