@@ -189,7 +189,7 @@ print(model.cm);
 print(".");
 
 print("# ------------------------------------------------------------------------------");
-print("# -- Multinomial Logistic Regression  -------------------------------------------");
+print("# -- Multinomial Logistic Regression  ------------------------------------------");
 print("# ------------------------------------------------------------------------------");
 
 model <- caret::train(class ~ ., data, method="multinom", trControl=train.ctrl);
